@@ -1,0 +1,110 @@
+[
+    {
+        "key": 1,
+        "subject": "English",
+        "category": "Language",
+        "level": "A",
+        "credit": 3,
+        "cost": 100,
+        "img": "https://m.media-amazon.com/images/I/51GXeCnSerL.jpg"
+    },
+    {
+        "key": 2,
+        "subject": "Bangla",
+        "category": "Language",
+        "level": "A",
+        "credit": 2,
+        "cost": 150,
+        "img": "https://4.bp.blogspot.com/-C6u_1--68_Y/WH_UPq9KibI/AAAAAAAAAOk/bTERzelW4wADqbKidKqWn3x0a30lHNM5ACLcB/s1600/9%2Bbangla.PNG"
+    },
+    {
+        "key": 3,
+        "subject": "Physics",
+        "category": "Science",
+        "level": "A",
+        "credit": 4,
+        "cost": 200,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/5185VMRmVML.jpg"
+    },
+    {
+        "key": 4,
+        "subject": "Chemistry",
+        "category": "Science",
+        "level": "A",
+        "credit": 4,
+        "cost": 250,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdnMlLBgKyr2paInQt5tTRPK4hxfIHve8sXA&usqp=CAU"
+    },
+    {
+        "key": 5,
+        "subject": "Biology",
+        "category": "Science",
+        "level": "A",
+        "credit": 4,
+        "cost": 220,
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560521511l/49397071._SX318_SY475_.jpg"
+    },
+    {
+        "key": 6,
+        "subject": "Math",
+        "category": "Science",
+        "level": "A",
+        "credit": 4,
+        "cost": 300,
+        "img": "https://i.pinimg.com/originals/62/8b/fd/628bfd894210fd81bb57bcc294ecc502.jpg"
+    },
+    {
+        "key": 7,
+        "subject": "Philosophy",
+        "category": "Social Science",
+        "level": "A",
+        "credit": 3,
+        "cost": 400,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB0297rSuCPY1RNwiB0o-awveGZU0NfiaW2g&usqp=CAU"
+    },
+    {
+        "key": 8,
+        "subject": "Computer",
+        "category": "Science",
+        "level": "A",
+        "credit": 4,
+        "cost": 350,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGgFzxiStCJJEG_0zumBcACGMzN1GKcCqPKQ&usqp=CAU"
+    },
+    {
+        "key": 9,
+        "subject": "Statistics",
+        "category": "Science",
+        "level": "A",
+        "credit": 4,
+        "cost": 180,
+        "img": "http://kaav.org/uploads/Habiba_ji_book_cover.jpg"
+    },
+    {
+        "key": 10,
+        "subject": "Economics",
+        "category": "Social Science",
+        "level": "A",
+        "credit": 4,
+        "cost": 280,
+        "img": "https://cdn4.vectorstock.com/i/thumb-large/00/98/economy-brochure-template-layout-economic-system-vector-29160098.jpg"
+    },
+    {
+        "key": 11,
+        "subject": "Management",
+        "category": "Business",
+        "level": "A",
+        "credit": 3,
+        "cost": 260,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRynoYD5oFa4ODjHstgY0x309TXE3eHxfUY3A&usqp=CAU"
+    },
+    {
+        "key": 12,
+        "subject": "Accounting",
+        "category": "Business",
+        "level": "A",
+        "credit": 3,
+        "cost": 320,
+        "img": "https://www.pearsonhighered.com/assets/bigcovers/0/1/3/4/0134725980.jpg"
+    }
+]

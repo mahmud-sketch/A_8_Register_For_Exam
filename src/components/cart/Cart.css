@@ -1,0 +1,9 @@
+.cart{
+    position: sticky;
+    top:0;
+    /* border: 2px solid goldenrod; */
+    border-radius: 5px;
+    background-color: lightgoldenrodyellow;
+    padding: 20px 5px;
+    margin: 20px 10px 15px;
+}
